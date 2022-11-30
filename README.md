@@ -1,2 +1,2 @@
 # exercise
-"lets se how this go"
+"lets see how this go"
